@@ -19,7 +19,7 @@ namespace Project.BLL.DesignPatterns.GenericRepository.ConcRepository
             
 
            
-            //_db.Authors diyerek sadece authora ait işlemleri burada gerçekleştirebilirsiniz.
+            //_db.Authors diyerek sadece authora ait işlemleri burada gerçekleştirebilirsiniz
 
         }
     }
